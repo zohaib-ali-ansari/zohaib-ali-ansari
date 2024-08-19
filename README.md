@@ -1,4 +1,11 @@
-## Hi there 👋
+- 👋 Hi, I’m @zohaib-ali-ansari, a software engineering student at SMIU.
+- 👀 I’m interested in becoming a full stack developer.
+- 🌱 I started with HTML and CSS, and now I am exploring JavaScript. I am also familiar with C# and MySQL.
+-	📚 I believe in staying updated with the latest industry trends and networking with professionals.
+-	🤝 I’m open to collaboration and learning from others in the field.
+-	🌐 Contact me via Email at zohaibaliansari70@gmail.com and let's grow together!
+-	😄 Pronouns: He/Him
+-	⚡ Fun fact: I enjoy programming challenges and have a passion for exploring the latest tech gadgets.
 
 <!--
 **zohaib-ali-ansari/zohaib-ali-ansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
